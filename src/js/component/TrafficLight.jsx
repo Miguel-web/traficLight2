@@ -1,4 +1,4 @@
-import react, { useState} from "react";
+import React, { useState } from "react";
 
 const TrafficLight = () => {
 
@@ -34,3 +34,5 @@ const TrafficLight = () => {
         </div>
     )
 }
+
+export default TrafficLight;
